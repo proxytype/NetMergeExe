@@ -1,5 +1,7 @@
 # NetMergeExe
 
+![alt text](https://github.com/proxytype/NetMergeExe/blob/master/exeMerge.png)
+
 Attacker can merge 2 different executable files, one run as legitimate and another run in the background without any notice,
 this tool have many forms and used many techniques, this project it pretty simple and using standard .Net compiler (csc.exe).
 
@@ -18,4 +20,4 @@ than updating the pattern file with the data and compile it as windows applicati
 Clicking the merge exe will uncompress the files and write them to selected folders as hidden, 
 at the end it will execute them.
 
-![alt text](https://github.com/proxytype/NetMergeExe/blob/master/exeMerge.png)
+
