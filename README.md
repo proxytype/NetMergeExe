@@ -1,8 +1,6 @@
 # NetMergeExe
 
-This tool was amazing ages ago, i thought it will be nice to implement it with .NET just to prove the point.
-
-The attacker can merge 2 different executable files, one run as legitimate and another run in the background without any notice,
+Attacker can merge 2 different executable files, one run as legitimate and another run in the background without any notice,
 this tool have many forms and used many techniques, this project it pretty simple and using standard .Net compiler (csc.exe).
 
 1. support different .Net versions.
