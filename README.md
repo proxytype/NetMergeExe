@@ -17,3 +17,5 @@ than updating the pattern file with the data and compile it as windows applicati
 
 Clicking the merge exe will uncompress the files and write them to selected folders as hidden, 
 at the end it will execute them.
+
+![alt text](https://github.com/proxytype/NetMergeExe/blob/master/exeMerge.png)
