@@ -15,7 +15,7 @@ this tool have many forms and used many techniques, this project it pretty simpl
 Main Concept
 
 Read the executable files bytes, compress them with Gzip and convert to base64 string, 
-than updating the pattern file with the data and compile it as windows application for avoiding the console popup.
+updating the pattern file with the data and compile it as windows application for avoiding the console popup.
 
 Clicking the merge exe will uncompress the files and write them to selected folders as hidden, 
 at the end it will execute them.
