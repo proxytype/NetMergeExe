@@ -2,8 +2,7 @@
 
 ![alt text](https://github.com/proxytype/NetMergeExe/blob/master/exeMerge.png)
 
-Attacker can merge 2 different executable files, one run as legitimate and another run in the background without any notice,
-this tool have many forms and used many techniques, this project it pretty simple and using standard .Net compiler (csc.exe).
+The attacker possesses the capability to seamlessly merge two distinct executable files within a single application. One of these files operates visibly and legitimately, while the other discreetly runs in the background without any perceptible notice. This tool exhibits versatility through various forms and employs a range of techniques for execution. Despite its complex functionalities, the project maintains simplicity by leveraging the widely accessible and standard .Net compiler, csc.exe.
 
 1. support different .Net versions.
 2. generating random names each creation.
